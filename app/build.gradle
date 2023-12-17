@@ -8,7 +8,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.liorhass.android.usbterminal.free"
+        applicationId "uk.me.sa.com.liorhass.android.usbterminal.free"
         versionCode 214
         versionName "2.0.26"
         minSdk 25

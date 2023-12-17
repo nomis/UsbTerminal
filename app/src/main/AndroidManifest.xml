@@ -42,7 +42,7 @@
         <!-- FileProvider for sharing log-files  -->
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.liorhass.android.usbterminal.free.fileprovider"
+            android:authorities="uk.me.sa.com.liorhass.android.usbterminal.free.fileprovider"
             android:grantUriPermissions="true"
             android:exported="false">
             <meta-data
